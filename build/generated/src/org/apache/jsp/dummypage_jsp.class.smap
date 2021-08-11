@@ -1,0 +1,16 @@
+SMAP
+dummypage_jsp.java
+JSP
+*S JSP
+*F
++ 0 dummypage.jsp
+dummypage.jsp
+*L
+5,17:44
+22:61,3
+23:64
+24,2:65,3
+26,6:71
+32,2:77,5
+34,4:87
+*E
